@@ -1,0 +1,19 @@
+
+body {
+  background-color: #D6B6BF;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  font-style: normal;
+  font-size: 20px;
+}
+
+ol {
+  font-size: 18px;
+  font-style: italic;
+}
